@@ -1,0 +1,3 @@
+
+    label = tk.Label(root, text="Timer App")
+    label.pack()
